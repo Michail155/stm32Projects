@@ -1,0 +1,22 @@
+ST7920_lib.cpp:224:6:void ST7920_logo_demonstration()	3
+ST7920_lib.cpp:253:13:void ST7920_Send_command(uint8_t)	1
+ST7920_lib.cpp:268:13:void ST7920_Send_data(uint8_t)	1
+ST7920_lib.cpp:283:6:void ST7920_Init()	1
+ST7920_lib.cpp:309:6:void ST7920_Send_symbol_text(uint8_t, uint8_t, char*)	6
+ST7920_lib.cpp:341:6:void ST7920_Graphic_mode(bool)	3
+ST7920_lib.cpp:358:6:void ST7920_Clean()	4
+ST7920_lib.cpp:379:6:void ST7920_Draw_bitmap(const unsigned char*)	4
+ST7920_lib.cpp:416:6:void ST7920_Draw_pixel(uint8_t, uint8_t)	3
+ST7920_lib.cpp:427:6:void ST7920_Clean_pixel(uint8_t, uint8_t)	3
+ST7920_lib.cpp:438:6:void ST7920_Update()	1
+ST7920_lib.cpp:446:6:void print_symbol(uint16_t, uint16_t, bool)	3
+ST7920_lib.cpp:473:6:void ST7920_Decode_UTF8(uint16_t, uint8_t, bool, char*)	15
+ST7920_lib.cpp:552:6:void ST7920_Inversion(uint16_t, uint16_t)	2
+ST7920_lib.cpp:563:6:void ST7920_Clean_Frame_buffer()	1
+ST7920_lib.cpp:569:6:void ST7920_Draw_line(uint8_t, uint8_t, uint8_t, uint8_t)	9
+ST7920_lib.cpp:595:6:void ST7920_Draw_rectangle(uint16_t, uint16_t, uint16_t, uint16_t)	3
+ST7920_lib.cpp:619:6:void ST7920_Draw_rectangle_filled(uint16_t, uint16_t, uint16_t, uint16_t)	4
+ST7920_lib.cpp:642:6:void ST7920_Draw_circle(uint8_t, uint8_t, uint8_t)	3
+ST7920_lib.cpp:682:6:void ST7920_Draw_circle_filled(int16_t, int16_t, int16_t)	3
+ST7920_lib.cpp:719:6:void ST7920_Draw_triangle(uint16_t, uint16_t, uint16_t, uint16_t, uint16_t, uint16_t)	1
+ST7920_lib.cpp:735:6:void ST7920_Draw_triangle_filled(uint16_t, uint16_t, uint16_t, uint16_t, uint16_t, uint16_t)	6
