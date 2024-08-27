@@ -1,0 +1,14 @@
+main.cpp:67:2:Recieve::Recieve()	1
+main.cpp:121:7:void Motor::MotorInit()	1
+main.cpp:133:7:void Motor::MotorWriteLeftGun(uint16_t)	1
+main.cpp:136:7:void Motor::MotorWriteRightGun(uint16_t)	1
+main.cpp:139:7:void Motor::MotorWriteLeft(uint16_t)	1
+main.cpp:142:7:void Motor::MotorWriteRight(uint16_t)	1
+main.cpp:150:2:Pilot::Pilot()	1
+main.cpp:154:7:void Pilot::PilotInit()	1
+main.cpp:158:7:void Pilot::PilotMotorControl()	4
+main.cpp:180:7:void Pilot::PilotRecieve()	7
+main.cpp:198:5:int main()	2
+main.cpp:258:6:void SystemClock_Config()	3
+main.cpp:300:6:void HAL_UART_RxCpltCallback(UART_HandleTypeDef*)	2
+main.cpp:311:6:void Error_Handler()	1
